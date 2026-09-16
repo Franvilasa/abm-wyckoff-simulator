@@ -85,4 +85,4 @@ If you use this code, please cite: `[citation pending publication]`
 
 ## License
 
-`[TBD]`
+`[MIT]`
